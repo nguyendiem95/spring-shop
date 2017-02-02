@@ -1,0 +1,25 @@
+/** Your theme modifications here **/
+#content .container {
+	min-height: 473px;
+}
+
+#productMain img {
+	width: 100%;
+	max-height: 200px;
+}
+
+.text .btn {
+	padding-left: 5px;
+}
+
+del {
+	color: #999;
+}
+
+.require {
+	color: #ff0000;
+}
+
+.btn-cart {
+	padding-left: 5px;
+}
